@@ -218,7 +218,9 @@ export default class MainPage extends React.Component {
           ))}
           <TableRow>
             <TableCell rowSpan={1} />
-            <TableCell>ENTER PROMO CARD OR GIFT CARD</TableCell>
+            <TableCell>
+              ENTER PROMO CARD OR GIFT CARD(use CODE:A15 and get RS.50 disount)
+            </TableCell>
             <TableCell align="right">
               <input
                 type="text"
